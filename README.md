@@ -1,12 +1,12 @@
 ## Plan for India!
 A state-of-the-art visualization engine for Govt. of India data. 
 ***
-Visualization by Ajay Vishwanathan ( https://github.com/ajatix)
+Visualization by Ajay Viswanathan (https://github.com/ajatix)
 
-Data-processing by Pranav Rao. 
+Data-processing by Pranav Rao (https://github.com/pnpranavrao) 
 ***
 
-You can see a working demo here : http://pnpranavrao.github.io/12thFiveYearPlan_Hackathon/
+You can see a working demo here : http://ajatix.github.io/mapviz/
 
 The data processing workflow (using Python-Pandas) can be found here : 
 

@@ -1,4 +1,4 @@
-## Plan for India!
+### Plan for India!
 A state-of-the-art visualization engine for Govt. of India data. 
 ***
 Visualization by Ajay Viswanathan (https://github.com/ajatix)

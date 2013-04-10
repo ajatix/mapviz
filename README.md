@@ -62,6 +62,7 @@ There are two parts in the project :
 
 ##### Front end : 
 The rich interativity is made possible due to a fantastic javascript library called d3.js. You can read more about it on d3js.org
+The entire JavaScript has been written from scratch.
 
 ##### Back end:
 All the data available on the data.gov.in was further processed, cleaned and integrated with a Python library called pandas. (pandas.pydata.org) 
